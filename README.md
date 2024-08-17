@@ -1,2 +1,2 @@
-# selecci-n-unicidad-alias-columnascalculadas
-Guia CIMINO DML
+# Queries
+Guide CIMINO DML

@@ -1,4 +1,4 @@
-Este proyecto consiste en la resolución de la guía de ejercicios en SQL conocida como "Cimino", utilizada en entornos educativos para introducir y fortalecer habilidades en el manejo de bases de datos relacionales.
+Este proyecto consiste en la resolución de la guía de ejercicios en SQL de Carlos Cimino, utilizada en entornos educativos para introducir y fortalecer habilidades en el manejo de bases de datos relacionales.
 
 A lo largo del proyecto, trabajé con MySQL para aplicar conceptos clave del lenguaje SQL, incluyendo:
 
